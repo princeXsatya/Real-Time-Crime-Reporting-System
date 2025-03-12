@@ -28,5 +28,5 @@ A real-time crime reporting system that enables users to report crimes such as t
 
 <bold>Thanks a lot,</bold><br/>
 
-project made by 
--Satyabrata das
+                                                                                                        Project Leader<br/>
+                                                                                                         <b>Satyabrata Das</b>
